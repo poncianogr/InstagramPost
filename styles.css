@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box{
+    margin-top: 40px;
+    background-color: #fff;
+    width: 500px;
+}
+.header{
+    margin-left: 10px;
+    height: 65px;
+   display: flex;
+   align-items: center;
+    
+}
+.bloque{
+    width: 95%;
+   display: flex;
+   align-items: center;
+   position: relative;
+
+   
+
+}
+#iconohtml{
+  
+}
+.titulo{
+    position: relative;
+    left: 20px;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+
+}
+
+p{
+    margin: 0;
+}
+
+.html{
+    font-weight: bold;
+}
+.cuerpo{
+    padding: 10px;
+    justify-content: space-between;
+}
+.iconos{
+width: 200px;
+}
+.corazon{
+margin: 5px;
+}
+.comentario{
+margin: 5px;
+}
+.avion{
+margin: 5px;
+}
+#bookmark{
+    position: relative;
+    left: 370px;
+}
+.lorem{
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+   
+}
+.likedby{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
